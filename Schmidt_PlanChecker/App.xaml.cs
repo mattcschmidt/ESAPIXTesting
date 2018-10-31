@@ -27,5 +27,6 @@ namespace Schmidt_PlanChecker
             bs.IsPatientSelectionEnabled = true;
             bs.Run(args);
         }
+         
     }
 }

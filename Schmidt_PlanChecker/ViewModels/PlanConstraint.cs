@@ -29,4 +29,3 @@ namespace Schmidt_PlanChecker.ViewModels
         }
     }
 }
-}
